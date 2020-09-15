@@ -1,0 +1,29 @@
+_repo: The-Grenadier-Guards-in-the-Great-War-of-1914-1918-Vol-3-of-3_63111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ponsonby, Frederick
+    aliases:
+    - Ponsonby, Frederick Edward Grey
+    - Sysonby, Frederick Edward Grey Ponsonby, Baron
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '51082'
+    url: http://www.gutenberg.org/2009/agents/51082
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Ponsonby,_1st_Baron_Sysonby
+description: ''
+gutenberg_issued: '2020-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. Grenadier Guards'
+- GITenberg
+title: The Grenadier Guards in the Great War of 1914-1918, Vol. 3 of 3
+url: http://www.gutenberg.org/ebooks/63111
